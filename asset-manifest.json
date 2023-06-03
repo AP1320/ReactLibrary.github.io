@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LibraryPractice/static/css/main.02efc046.css",
+    "main.js": "/LibraryPractice/static/js/main.59c8323f.js",
+    "index.html": "/LibraryPractice/index.html",
+    "main.02efc046.css.map": "/LibraryPractice/static/css/main.02efc046.css.map",
+    "main.59c8323f.js.map": "/LibraryPractice/static/js/main.59c8323f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02efc046.css",
+    "static/js/main.59c8323f.js"
+  ]
+}
